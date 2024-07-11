@@ -138,6 +138,114 @@ var (
 				Profile1g10gb: 7,
 			},
 		},
+		gpu.GPUModel_H100_PCIe_96GB: {
+			{
+				Profile7g95gb: 1,
+			},
+			{
+				Profile4g47gb: 1,
+				Profile2g24gb: 1,
+				Profile1g12gb: 1,
+			},
+			{
+				Profile4g47gb: 1,
+				Profile1g12gb: 3,
+			},
+			{
+				Profile3g47gb: 2,
+			},
+			{
+				Profile3g47gb: 1,
+				Profile2g24gb: 1,
+				Profile1g12gb: 1,
+			},
+			{
+				Profile3g47gb: 1,
+				Profile1g12gb: 3,
+			},
+			{
+				Profile2g24gb: 2,
+				Profile3g20gb: 1,
+			},
+			{
+				Profile2g10gb: 1,
+				Profile1g12gb: 2,
+				Profile3g47gb: 1,
+			},
+			{
+				Profile2g24gb: 3,
+				Profile1g12gb: 1,
+			},
+			{
+				Profile2g24gb: 2,
+				Profile1g12gb: 3,
+			},
+			{
+				Profile2g24gb: 1,
+				Profile1g12gb: 5,
+			},
+			{
+				Profile3g47gb: 1,
+				Profile4g47gb: 1,
+			},
+			{
+				Profile1g12gb: 7,
+			},
+		},
+		gpu.GPUModel_H100_SXM5_96GB: {
+			{
+				Profile7g95gb: 1,
+			},
+			{
+				Profile4g47gb: 1,
+				Profile2g24gb: 1,
+				Profile1g12gb: 1,
+			},
+			{
+				Profile4g47gb: 1,
+				Profile1g12gb: 3,
+			},
+			{
+				Profile3g47gb: 2,
+			},
+			{
+				Profile3g47gb: 1,
+				Profile2g24gb: 1,
+				Profile1g12gb: 1,
+			},
+			{
+				Profile3g47gb: 1,
+				Profile1g12gb: 3,
+			},
+			{
+				Profile2g24gb: 2,
+				Profile3g20gb: 1,
+			},
+			{
+				Profile2g10gb: 1,
+				Profile1g12gb: 2,
+				Profile3g47gb: 1,
+			},
+			{
+				Profile2g24gb: 3,
+				Profile1g12gb: 1,
+			},
+			{
+				Profile2g24gb: 2,
+				Profile1g12gb: 3,
+			},
+			{
+				Profile2g24gb: 1,
+				Profile1g12gb: 5,
+			},
+			{
+				Profile3g47gb: 1,
+				Profile4g47gb: 1,
+			},
+			{
+				Profile1g12gb: 7,
+			},
+		},
 	}
 )
 

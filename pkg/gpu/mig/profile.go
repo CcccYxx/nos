@@ -44,6 +44,13 @@ const (
 	Profile3g40gb ProfileName = "3g.40gb"
 	Profile4g40gb ProfileName = "4g.40gb"
 	Profile7g79gb ProfileName = "7g.79gb"
+
+	// H100 NVL Profiles
+	Profile1g12gb ProfileName = "1g.12gb"
+	Profile2g24gb ProfileName = "2g.24gb"
+	Profile3g47gb ProfileName = "3g.47gb"
+	Profile4g47gb ProfileName = "4g.47gb"
+	Profile7g95gb ProfileName = "7g.95gb"
 )
 
 var (
