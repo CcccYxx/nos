@@ -140,7 +140,7 @@ var (
 		},
 		gpu.GPUModel_H100_PCIe_96GB: {
 			{
-				Profile7g95gb: 1,
+				Profile7g94gb: 1,
 			},
 			{
 				Profile4g47gb: 1,
@@ -194,7 +194,7 @@ var (
 		},
 		gpu.GPUModel_H100_SXM5_96GB: {
 			{
-				Profile7g95gb: 1,
+				Profile7g94gb: 1,
 			},
 			{
 				Profile4g47gb: 1,
